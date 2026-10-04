@@ -1,0 +1,9 @@
+/build/
+/dist/
+/signing/*.keystore
+/signing/*.jks
+/signing/*-identity.json
+*.apk
+FFVII_Snowboarding_Data_for_Bridge_*.zip
+__pycache__/
+*.pyc
