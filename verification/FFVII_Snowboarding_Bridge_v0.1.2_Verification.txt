@@ -1,0 +1,36 @@
+FFVII SNOWBOARDING BRIDGE v0.1.2 — PUBLIC VERIFICATION SUMMARY
+
+APP IDENTITY
+Name: FFVII Snowboarding Bridge
+Version: 0.1.2
+Package: com.wakka.ffviisnowboardingbridge
+
+DEVICE VERIFICATION
+Device: Samsung Galaxy S25 Ultra
+Android: 16
+Result: PASS
+
+Confirmed on physical hardware:
+- clean public APK installs and launches
+- app correctly requires external game data before play
+- locally generated 13-file payload imports and verifies
+- game launches from imported payload
+- 3D Snowboarding gameplay works
+- music/audio playback works
+- original keypad controls work
+- custom two-handed controls work
+
+PUBLIC BOUNDARY
+The public APK/source do not include:
+- original game JAR/JAM/SP
+- extracted original game assets
+- generated game.dex
+- generated game MIDI payload
+- private game-data import ZIP
+- canonical release signing key
+
+AUTOMATED REGRESSION BASELINE
+Behavior checks: 26/26 PASS in the v0.1.2 release preparation line.
+
+NOTE
+Compatibility outside the tested device/Android version is not yet fully documented.

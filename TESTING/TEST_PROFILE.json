@@ -1,0 +1,18 @@
+{
+  "$schema": "urn:wakkan-android-test-profile:1",
+  "schema_version": 1,
+  "name": "FFVII Snowboarding Bridge",
+  "package": "com.wakka.ffviisnowboardingbridge",
+  "app_version": "0.1.2",
+  "apk_candidates": [
+    "dist/FFVII_Snowboarding_Bridge_v0.1.2.apk"
+  ],
+  "deep_links": [],
+  "acceptance_checklist": "TESTING/ACCEPTANCE_TESTS.md",
+  "smoke_test": {
+    "install_mode": "replace",
+    "clear_data_before_test": false,
+    "launch_wait_seconds": 2
+  },
+  "notes": "Public-release candidate. Installs separately from the earlier Omni prototype package. Validate local payload import before gameplay. ADB smoke testing is not gameplay verification."
+}

@@ -1,0 +1,15 @@
+{
+  "name": "FFVII Snowboarding Bridge",
+  "package": "com.wakka.ffviisnowboardingbridge",
+  "version": "0.1.2",
+  "apk_name": "FFVII_Snowboarding_Bridge_v0.1.2.apk",
+  "source_roots": [
+    "shared/src",
+    "profiles/snowboard/src",
+    "runtime/snowboard/src",
+    "app/src"
+  ],
+  "payload_jars": [],
+  "signing_alias": "ffvii-snowboarding-bridge",
+  "signing_dn": "CN=FFVII Snowboarding Bridge,O=WAKKA,C=US"
+}
