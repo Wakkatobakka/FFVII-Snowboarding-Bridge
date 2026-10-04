@@ -1,5 +1,7 @@
 # FFVII Snowboarding Bridge
 
+![FFVII Snowboarding Bridge](Snowboarding_Bridge.jpg)
+
 FFVII Snowboarding Bridge is an independent Android compatibility bridge for running a user's own compatible copy of the preserved **Final Fantasy VII Snowboarding** DoJa mobile game on modern Android hardware.
 
 Current public baseline: **v0.1.2**  
