@@ -46,6 +46,19 @@ The goal is not to replace the preservation work that came before this project o
 
 Nothing is uploaded by the Payload Builder or importer.
 
+## Getting the original game files
+
+FFVII Snowboarding Bridge does not include the original game files.
+
+The preserved DoJa release can be accessed through **Keitai World Launcher**:
+
+- [Download Keitai World Launcher](https://keitaiarchive.org/KeitaiWorldLauncher.zip)
+- [Keitai Archive downloads page](https://keitaiarchive.org/downloads.html)
+
+Inside Keitai World Launcher, locate **Final Fantasy VII Snowboarding** and obtain the compatible game files there.
+
+Once you have the game files, use the Payload Builder included with this project's GitHub release to prepare them for FFVII Snowboarding Bridge.
+
 ## Compatible game-data inputs
 
 The current Payload Builder expects the supported pair:
