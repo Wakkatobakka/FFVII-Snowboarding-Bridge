@@ -5,6 +5,20 @@
 
 Play the preserved **Final Fantasy VII Snowboarding** mobile game on modern Android with 3D gameplay, music, and touchscreen controls.
 
+## Play with Omni Player
+
+For a streamlined way to play **Final Fantasy VII Snowboarding**, I recommend **Omni Player**.
+
+Omni includes this game's compatibility bridge and can import the complete English offline game archive directly, without the standalone Windows Payload Builder. Keep the JAR, JAM descriptor, and scratchpad together as described in the guide below.
+
+**[Download Omni Player](https://github.com/Wakkatobakka/Omni-Player/releases) · [Game files and setup guide](https://github.com/Wakkatobakka/Omni-Player/blob/main/GAME_GUIDE.md#final-fantasy-vii-snowboarding)**
+
+Requires **Android 11+ / ARM64**. Original game files are not included.
+
+To use the dedicated standalone Snowboarding Bridge app, follow the instructions below.
+
+---
+
 ## Quick Start
 
 1. Open the [v0.1.2 Release](https://github.com/Wakkatobakka/FFVII-Snowboarding-Bridge/releases/tag/v0.1.2).
